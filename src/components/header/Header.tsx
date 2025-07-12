@@ -1,6 +1,5 @@
 import {
   MegaMenu,
-  MegaMenuDropdown,
   NavbarBrand,
   NavbarCollapse,
   NavbarLink,
