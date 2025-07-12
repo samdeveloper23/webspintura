@@ -7,7 +7,7 @@ const Home = () => {
         <Card
           className="max-w-sm"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="../../../../public/MiLogo.png"
+          imgSrc="../../../dist/MiLogo.png"
         >
           <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate
