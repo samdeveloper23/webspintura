@@ -6,9 +6,15 @@ import Contact from "./contact/Contact";
 const Body = () => {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/gallery" element={<Gallery />} />
-      <Route path="/contact" element={<Contact />} />
+      <Route path="https://eredraug.netlify.app/" element={<Home />} />
+      <Route
+        path="https://eredraug.netlify.app/gallery"
+        element={<Gallery />}
+      />
+      <Route
+        path="https://eredraug.netlify.app/contact"
+        element={<Contact />}
+      />
     </Routes>
   );
 };
