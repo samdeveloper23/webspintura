@@ -1,4 +1,5 @@
 import { Card } from "flowbite-react";
+import logo from "../../../../public/MiLogo.png";
 
 const Home = () => {
   return (
@@ -7,7 +8,7 @@ const Home = () => {
         <Card
           className="max-w-sm"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="../../../dist/MiLogo.png"
+          imgSrc={logo}
         >
           <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate
@@ -24,7 +25,7 @@ const Home = () => {
         <Card
           className="max-w-sm"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="/../../public/MiLogo.png"
+          imgSrc={logo}
         >
           <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate
