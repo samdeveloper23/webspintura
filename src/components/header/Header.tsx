@@ -5,7 +5,7 @@ import {
   NavbarLink,
   NavbarToggle,
 } from "flowbite-react";
-import logo from "../../../../public/MiLogo.png";
+import logo from "../../../public/MiLogo.png";
 
 const Header = () => {
   return (
