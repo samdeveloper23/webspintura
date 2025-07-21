@@ -6,7 +6,7 @@ import Contact from "./contact/Contact";
 const Body = () => {
   return (
     <Routes>
-      <Route path="https://eredraug.netlify.app/" element={<Home />} />
+      <Route path="/" element={<Home />} />
       <Route
         path="https://eredraug.netlify.app/gallery"
         element={<Gallery />}
