@@ -8,7 +8,7 @@ const Home = () => {
       <div className="centro">
         <Card
           className="max-w-sm"
-          imgAlt="Meaningful alt text for an image that is not purely decorative"
+          imgAlt="Pintado de habitaciones desde 250€"
           imgSrc={imagenPrimera}
         >
           <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -26,14 +26,11 @@ const Home = () => {
           imgSrc={logo}
         >
           <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate
-            modi quas placeat
+            Pintado de exteriores e interiores
           </h5>
           <p className="font-normal text-gray-700 dark:text-gray-400">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias
-            consequatur voluptate ipsum ex velit eius hic, praesentium
-            dignissimos a. Laudantium culpa dolorem maiores itaque porro
-            officiis quidem voluptate quibusdam id.
+            Todos nuestros trabajos son realizados con pinturas y material de
+            alta calidad para garantizar su durabilidad y eficiencia.
           </p>
         </Card>
       </div>
