@@ -23,6 +23,6 @@ body {
 }
 
 .centrodos {
-  height: 50vh; /* 100% de la altura visible del viewport */
-  width: 50vw; /* 100% del ancho visible del viewport */
+  height: 100%; /* 100% de la altura visible del viewport */
+  width: 100%; /* 100% del ancho visible del viewport */
 }
