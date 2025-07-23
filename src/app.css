@@ -15,3 +15,14 @@ h2 {
   display: grid;
   place-items: center; /* centra vertical y horizontalmente */
 }
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.centrodos {
+  height: 50vh; /* 100% de la altura visible del viewport */
+  width: 50vw; /* 100% del ancho visible del viewport */
+}

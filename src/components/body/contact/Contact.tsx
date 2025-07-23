@@ -2,7 +2,7 @@ import { Card } from "flowbite-react";
 
 const Contact = () => {
   return (
-    <div className="centro">
+    <div className="centrodos">
       <Card className="max-w-sm">
         <h5 className="mb-3 text-base font-semibold text-gray-900 lg:text-xl dark:text-white">
           Contactos
